@@ -1,0 +1,8 @@
+.image-jeep{
+    background-image: url(/Imagenes/Clientes/jeep_auto_x2_colored.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+}

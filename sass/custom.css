@@ -383,10 +383,6 @@ iframe {
           justify-content: flex-start;
 }
 
-.card-title {
-  margin-bottom: 0.5rem;
-}
-
 @keyframes progress-bar-stripes {
   0% {
     background-position-x: 1rem;
